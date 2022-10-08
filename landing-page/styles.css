@@ -1,0 +1,29 @@
+ul {
+    display:flex;
+    list-style-type:none;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+
+.top {
+   display:flex;
+   flex-direction:column;
+   background-color:aqua;
+}
+
+.header {
+    display:flex;
+}
+
+.under-header {
+    display:flex;
+}
+
+body {
+    margin:0;
+}
+
+
