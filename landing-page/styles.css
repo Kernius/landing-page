@@ -16,14 +16,32 @@ a {
 
 .header {
     display:flex;
+    justify-content:space-between;
 }
 
 .under-header {
     display:flex;
+    align-items:center;
+    justify-content:space-between;
 }
 
 body {
     margin:0;
 }
 
+h1 {
+    font-size:40px;
+    color:white;
+}
+
+.text1 {
+    font-size:12px;
+    
+}
+
+.right-under {
+    background-color:grey;
+    padding:140px;
+    margin:40px;
+}
 
